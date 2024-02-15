@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    /* height: 300vh; */
+}
+
+canvas{
+    border: 2px solid black;
+    /* background-color: aqua; */
+    height: 100%;
+}
