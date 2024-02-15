@@ -1,11 +1,11 @@
 # Circular-Motion-Animation-using-Canvas
 
-<div style="max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div>
         <h1 style="color: #333;">Circular Motion Animation</h1>
  <img src="./circular_Motion.png">
  <img src="./circular_motion1.png">
  
-        <p style="color: #666;">This project demonstrates a mesmerizing circular motion animation created using HTML canvas and JavaScript. The animation features colorful lines that emanate from the center and move in circular trajectories, creating an immersive visual experience.</p>
+<p style="color: #666;">This project demonstrates a mesmerizing circular motion animation created using HTML canvas and JavaScript. The animation features colorful lines that emanate from the center and move in circular trajectories, creating an immersive visual experience.</p>
         
    <h2 style="color: #333;">Features:</h2>
         <ul>
